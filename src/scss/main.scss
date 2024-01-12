@@ -1,0 +1,14 @@
+@import'./global';
+
+.father{
+    width: 100%;
+    height: 100%;
+    // border: $border;
+    background-color: antiquewhite;
+    .container{
+        width: 1700px;
+        height: 100%;
+        margin: 0 auto;
+        // border: $border;
+    }
+}
